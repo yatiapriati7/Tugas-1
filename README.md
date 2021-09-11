@@ -4,7 +4,7 @@ Tugas Perama
   - function index menampilkan nama, nim, dan alamat.
   - function hoby menapilkan hoby dari mahasiswa.
   - function riwayat_pendidikan menampilkan riwayat pendidikan.
-3. Membuat View
+2. Membuat View
   - membuat view untuk home
   - membuat view hoby
   - membuat view riwayat_pendidikan
